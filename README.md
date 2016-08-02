@@ -1,6 +1,8 @@
 # glinter
 A project that attempts to introduce "CL - Continuous Linting" for all modern programming languages.
 
+[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/tacocats/glinter/blob/master/LICENSE)
+
 What is the purpose of this project? Often when colaborating with others a standard form of syntax or indentation is often agreed upon.
 The goal of glinter is to automate the process of checking for errors in code such as improper indentation or other syntax mistakes. It
 also aims to eventually automatically fix these errors.
